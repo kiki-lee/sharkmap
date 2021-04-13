@@ -21,15 +21,6 @@
 * imageUrl: https://shakao-test.github.io/demo/images/01-character.gif
 * next: shark-enemies, shark-background
 
-### shark-enemies
-* name: Add Enemies
-* type: tutorial
-* description: An enemy appears! Fight!
-* url: https://github.com/shakao-test/demo/tutorials/shark-02
-* tags: easy, enemies
-* imageUrl: https://shakao-test.github.io/demo/images/02-enemies.gif
-* next: shark-enemies-moving
-
 ### shark-background
 * name: Design a Background
 * type: tutorial
@@ -47,6 +38,15 @@
 * tags: easy, projectiles, enemies
 * imageUrl: https://shakao-test.github.io/demo/images/03-projectiles.gif
 * next: shark-enemies
+
+### shark-enemies
+* name: Add Enemies
+* type: tutorial
+* description: An enemy appears! Fight!
+* url: https://github.com/shakao-test/demo/tutorials/shark-02
+* tags: easy, enemies
+* imageUrl: https://shakao-test.github.io/demo/images/02-enemies.gif
+* next: shark-enemies-moving
 
 ### shark-enemies-moving
 * name: Moving Enemies
