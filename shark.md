@@ -43,7 +43,7 @@
 * name: Add Enemies
 * type: tutorial
 * description: An enemy appears! Fight!
-* url: https://github.com/shakao-test/demo/tutorials/shark-02
+* url: https://github.com/shakao-test/demo/tutorials/shark2
 * tags: easy, enemies
 * imageUrl: https://shakao-test.github.io/demo/images/02-enemies.gif
 * next: shark-enemies-moving
