@@ -232,7 +232,7 @@
 * type: tutorial
 * description: Send a mix of different enemies toward your hero!
 * tags: easy, collector, game
-* next: collector-activity4
+* next: beginner-cert-3
 
 * url: /skillmap/collector/collector4
 * imageUrl: /static/skillmap/collector/collector-activity-4.gif
