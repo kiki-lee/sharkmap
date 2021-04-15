@@ -3,7 +3,7 @@
 * description: Learn to create arcade games of your own by completing these tutorials.
 * infoUrl: skillmap/educator-info/basic-map-info
 * bannerUrl: /static/skillmap/story/story-activity4.png
-* backgroundurl: /static/bg1b.png  
+* backgroundurl: /static/skillmap/backgrounds/bg1b.png  
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
 * tertiarycolor: #009da2
