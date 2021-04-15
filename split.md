@@ -55,7 +55,7 @@
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
 * tags: easy, card, gift, creative
-* next: story-activity3
+* next: pusher2, story-activity3
 * reqired: 1 story
 
 * url: /skillmap/story/story2 
@@ -67,7 +67,7 @@
 * type: tutorial
 * description: Create your first Arcade story using a two-line joke!
 * tags: easy, story, joke, creative
-* next: story-activity4, pusher2
+* next: story-activity4
 
 * url: /skillmap/story/story3 
 * imageUrl: /static/skillmap/story/muffins.gif
