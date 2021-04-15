@@ -67,7 +67,7 @@
 * type: tutorial
 * description: Create your first Arcade story using a two-line joke!
 * tags: easy, story, joke, creative
-* next: story-activity4
+* next: story-activity4, pusher2
 
 * url: /skillmap/story/story3 
 * imageUrl: /static/skillmap/story/muffins.gif
@@ -86,6 +86,10 @@
 
 
 ### pusher1
+* name: Blank node
+* kind: layout
+
+### pusher2
 * name: Blank node
 * kind: layout
 
@@ -134,7 +138,7 @@
 * type: tutorial
 * description: Add code to make your simple clicker more powerful!
 * tags: easy, clicker, game
-* next: pusher2, clicker-activity4
+* next: pusher3, clicker-activity4
 
 * url: /skillmap/clicker/clicker3 
 * imageUrl: /static/skillmap/clicker/clicker-activity-3.gif
@@ -152,9 +156,6 @@
 * imageUrl: /static/skillmap/clicker/clicker-activity-4.gif
 
 
-### pusher2
-* name: Blank node
-* kind: layout
 
 ### pusher3
 * name: Blank node
