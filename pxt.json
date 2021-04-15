@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "shark.md"
+        "shark.md",
+        "split.md"
     ],
     "testFiles": [
         "test.ts"
