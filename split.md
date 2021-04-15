@@ -67,7 +67,7 @@
 * type: tutorial
 * description: Create your first Arcade story using a two-line joke!
 * tags: easy, story, joke, creative
-* next: story-activity4, pusher2
+* next: pusher2, story-activity4
 
 * url: /skillmap/story/story3 
 * imageUrl: /static/skillmap/story/muffins.gif
