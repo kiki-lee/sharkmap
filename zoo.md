@@ -1,6 +1,8 @@
 # skillmap
 * name: The Zookeeper's Day!
-* description: Ever wonder what it takes to be a zookeeper? The answer may surprise you... \n Click on the first level to start your journey.
+* description: Ever wonder what it takes to be a zookeeper? The answer may surprise you...
+
+Click on the first level to start your journey.
 * bannerurl: /static/skillmap/space/zoo/zoo-welcome.png
 * backgroundurl: /static/skillmap/space/game-maker-guide-background.png
 * primarycolor: #2EA9B0
