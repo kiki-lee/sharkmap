@@ -182,7 +182,7 @@
 * type: tutorial
 * description: Make an arcade-style collector game!
 * tags: easy, collector, game
-* next: collector-activity2, collector-activity1a
+* next: collector-activity2 
 
 * url: /skillmap/collector/collector1 
 * imageUrl: /static/skillmap/collector/collector-activity-1.gif
@@ -208,7 +208,7 @@
 * description: Make a few simple changes for a game that's twice as fun! 
 * tags: easy, collector, game
 * required: 1 collector
-* next: collector-activity3
+* next: collector-activity1a, collector-activity3
 
 * url: /skillmap/collector/collector2 
 * imageUrl: /static/skillmap/collector/collector-activity-2.gif
@@ -220,7 +220,7 @@
 * type: tutorial
 * description: Learn to add enemy projectiles to your game!
 * tags: easy, collector, game
-* next: collector-activity3a, collector-activity4
+* next: collector-activity4, collector-activity3a
 
 * url: /skillmap/collector/collector3
 * imageUrl: /static/skillmap/collector/collector-activity-3.gif
