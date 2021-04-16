@@ -195,7 +195,7 @@
 * type: tutorial
 * description: Spice up your game by adding a custom background!
 * tags: easy, collector, game, background
-* next: collector-activity2
+
 
 * url: /skillmap/collector/collector1 
 * imageUrl: /static/skillmap/collector/collector-activity-1.gif
@@ -232,7 +232,7 @@
 * type: tutorial
 * description: Send a mix of different enemies toward your hero!
 * tags: easy, collector, game
-* next: beginner-cert-3
+
 
 * url: /skillmap/collector/collector4
 * imageUrl: /static/skillmap/collector/collector-activity-4.gif
