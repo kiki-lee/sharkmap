@@ -258,7 +258,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/collector-game.pdf
 * imageUrl: /static/skillmap/certificates/collector-cert.png
-* next: collector-activity5
+* next: collector-activity5, pusher4
 
 
 ### collector-activity5
@@ -270,3 +270,7 @@
 
 * url: /skillmap/collector/collector5
 * imageUrl: /static/skillmap/collector/collector-activity-4.gif
+
+### pusher4
+* name: Blank node
+* kind: layout
