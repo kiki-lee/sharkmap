@@ -258,3 +258,15 @@
 * type: certificate
 * url: /static/skillmap/certificates/collector-game.pdf
 * imageUrl: /static/skillmap/certificates/collector-cert.png
+* next: collector-activity5
+
+
+### collector-activity5
+
+* name: Play Around
+* type: tutorial
+* description: Now it's up to your imagination!
+* tags: easy, collector, game
+
+* url: /skillmap/collector/collector5
+* imageUrl: /static/skillmap/collector/collector-activity-4.gif
