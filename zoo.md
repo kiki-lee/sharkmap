@@ -1,12 +1,13 @@
 # skillmap
-* name: Zookeeper
-* description: You're a zookeeper!
-* bannerurl: https://shakao-test.github.io/zookeeper-map/images/zoo-welcome.png
+* name: The Zookeeper's Day!
+* description: Ever wonder what it takes to be a zookeeper? The answer may surprise you... \n Click on the first level to start your journey.
+* bannerurl: /static/skillmap/space/zoo/zoo-welcome.png
 * backgroundurl: /static/skillmap/space/game-maker-guide-background.png
 * primarycolor: #2EA9B0
 * secondarycolor: #F392BD
 * tertiarycolor: #83C252
 * highlightcolor: #FAED28
+* tags: easy, entertainment
 
 ## zookeeper
 * name: Zookeeper Certification
@@ -16,7 +17,7 @@
 * name: Zookeeper Hut
 * type: tutorial
 * next: zoo-activity2, zoo-activity2-2
-* description: Start your day!
+* description: It's time to start your new job as a zookeeper.  What could go wrong?
 * url: /skillmap/zoo/zoo1
 * imageurl: /static/skillmap/space/zoo/activity1.png
 * tags: easy
@@ -27,7 +28,7 @@
 * type: tutorial
 * description: Set up a zoo exhibit! Let's take a stroll to the mammal enclosures and get your first exhibit all set up.
 * url: /skillmap/zoo/zoo2
-* imageurl: https://shakao-test.github.io/zookeeper-map/images/activity2.png
+* imageurl: /static/skillmap/space/zoo/activity2.png
 * tags: easy
 * next: zoo-activity3
 
@@ -44,7 +45,7 @@
 * allowcodecarryover: false
 * name: Penguins
 * type: tutorial
-* description: Penguins?
+* description: It's penguin pandimonium! Can you help contain the creatures before you carry on with your day?
 * url: /skillmap/zoo/zoo3
 * imageurl: /static/skillmap/space/zoo/activity3.png
 * tags: easy
