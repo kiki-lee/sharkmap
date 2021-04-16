@@ -11,7 +11,8 @@
         "README.md",
         "assets.json",
         "shark.md",
-        "split.md"
+        "split.md",
+        "zoo.md"
     ],
     "testFiles": [
         "test.ts"
